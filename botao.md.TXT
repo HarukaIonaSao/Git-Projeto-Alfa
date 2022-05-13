@@ -1,0 +1,10 @@
+Para adicionar uma nova Branch
+
+no git bash digite
+
+-git checkout -b "nome da branch desejada"
+
+-crie um novo aqrquivo ou altere os já existentes
+
+-git add .
+-git commit -m "nome do arquivo"
