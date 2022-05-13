@@ -1,0 +1,14 @@
+mkdir- cria um novo diretório
+rmdir-remove diretório
+ls-lista os elementos dentro do diretorio
+
+A tecla Tab preenche automaticamente o nome das pastas e arquivoa na máquina
+
+
+:cold_sweat: 😰 Problemas que encontrei durante  o projeto
+
+  Ao fazer o push, sempre encontrava uma mensagem de erro e não seguia para a autenticação
+ Refiz a pasta e todo o processo pela quarta vez e ao invés de digitar"git push -u origin main", digitei "master", e o erro foi resolvido!!
+ 
+Tem uma lista de emoticons para você no projeto, espero que ajude!
+
