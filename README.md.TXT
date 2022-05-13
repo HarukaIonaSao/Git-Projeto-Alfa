@@ -24,10 +24,10 @@ Copie o link do seu projeto
 Vá para o Git Bash
 
 -git remote add origin cole o link do seu projeto (esse comando faz a conexão do repositório local com o do Github)
--git push -u origin main
+-git push -u origin main ou master dependendo da sua versão
 
 faça seu login no Github na aba que vai abrir
 
 *No Github, de refresh e veja seu commit!!!!
 
-Repita o processo do push sempre que adicionar um commit
+Repita o processo do push sempre que adicionar um commitgit init
